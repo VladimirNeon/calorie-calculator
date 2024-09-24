@@ -14,7 +14,7 @@
   
 ## Стек технологій:
 - **Java 17**
-- **Spring Boot 3.x**
+- **Spring Boot**
 - **Spring Security**
 - **Spring Data JPA**
 - **PostgreSQL**
